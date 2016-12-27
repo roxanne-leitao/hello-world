@@ -1,2 +1,4 @@
 # hello-world
-First try
+First try.
+
+Follwing this tutorial step-by-step.
